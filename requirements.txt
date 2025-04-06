@@ -1,5 +1,6 @@
-## Minimal Needed Packages
-```txt
+Minimal Needed Packages:
+
+
 - pandas
 - numpy
 - matplotlib
